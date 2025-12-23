@@ -6,7 +6,7 @@ Patchvec accepts code and docs from people who ship patches. Follow the steps be
 
 ```bash
 # clone and enter the repo first
-git clone https://github.com/patchvec/patchvec.git
+git clone https://github.com/rodrigopitanga/patchvec.git
 cd patchvec
 
 # GPU deps by default; add USE_CPU=1 if you do not have a GPU
